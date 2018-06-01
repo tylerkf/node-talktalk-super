@@ -1,11 +1,10 @@
 /**
- * 
- *
+ * Simple example that gets the info of connected devices
  */
 
 const { SuperRouter } = require('../');
 
-const router = new SuperRouter('http://192.168.1.1', 'admin', '8DGJ7M6Y');
+const router = new SuperRouter('http://192.168.1.1', 'admin', 'password');
 
 router.login((err, res) => {
   if (err)
