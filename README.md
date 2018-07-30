@@ -2,7 +2,7 @@
 
 [![NPM](https://nodei.co/npm/talktalk-super.png?compact=true)](https://nodei.co/npm/talktalk-super/)
 
-Designed for making API calls to TalkTalk Super Router.
+Designed for making API calls to TalkTalk Super Routers.
 
 ## Installation
 ```

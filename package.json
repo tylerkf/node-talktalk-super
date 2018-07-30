@@ -1,10 +1,16 @@
 {
   "name": "talktalk-super",
-  "version": "1.0.0",
+  "version": "1.0.2",
+  "description": "Designed for making API calls to TalkTalk Super Routers",
+  "keywords": [
+    "talktalk",
+    "router",
+    "wifi",
+    "api",
+    "huawei"
+  ],
+  "homepage": "https://github.com/tylerkf/node-talktalk-super",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/tylerkf/node-talktalk-super"
